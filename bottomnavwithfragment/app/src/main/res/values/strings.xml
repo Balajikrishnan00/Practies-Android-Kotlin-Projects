@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bottom nav with fragment</string>
+    <string name="dash_board">DashBoard</string>
+    <string name="settings">Settings</string>
+    <string name="icon">Icon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_failer">Project Failer</string>
+
+</resources>
